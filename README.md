@@ -1,2 +1,3 @@
-# contours-ai-ios
-Repository for Contours AI iOS SDK
+# Contour AI SDK™
+
+  - [Documentation](https://docs.fttoolbox.com/contoursai/ios/installation)
